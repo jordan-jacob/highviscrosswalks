@@ -1,0 +1,7 @@
+library(tidyverse)
+library(readxl)
+torontodata <- read_csv("C:/Users/jacob/Documents/HighVisCrosswalks/Toronto/Products/TorontoCrosswalksCrashVehiclePed.csv")
+torontodata2 <- torontodata |> filter(TYPECHANGESIMPLE=="Low-to-High-Vis")
+torontodata2$YEARCHANGE <- as.factor(torontodata2$YEARCHANGE)
+ggplot(torontodata2,aes(x=YEARCHANGE))+geom_bar()+labs(title="Data Points by Year", subtitle="Low-to-High Visibility Crosswalks Only",x="Year", y="Count")
+ggsave("C:/Users/jacob/Documents/HighVisCrosswalks/Toronto/Products/crashrateyear.png",width=10,height=6,units="in")
