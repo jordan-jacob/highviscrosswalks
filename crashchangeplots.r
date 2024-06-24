@@ -1,4 +1,4 @@
-﻿torontodata <- read_csv("C:/Users/jacob/Documents/HighVisCrosswalks/Toronto/Products/TorontoCrosswalkwithCrashesVehiclePed2.csv")
+﻿torontodata <- read_csv("C:/Users/jacob/Documents/HighVisCrosswalks/Toronto/Products/TorontoCrosswalksCrashVehiclePed.csv")
 torontodata2 <- torontodata |> filter(TYPECHANGESIMPLE=="Low-to-High-Vis")
 mean_change <- mean(torontodata2$CrashChange, na.rm = TRUE)
 ggplot(torontodata2,aes(x=CrashChange))+geom_bar()+geom_vline(aes(xintercept=mean_change))+labs(title="Difference of 4-year Crash Totals", subtitle="Before and After High-Visibility Crosswalk Treatment",x="Difference in Crash Totals", y="Frequency") 
