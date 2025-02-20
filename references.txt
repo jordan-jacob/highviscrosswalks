@@ -1,0 +1,22 @@
+References
+
+[1]	H. Yanar et al., “Pedestrians Injured by Automobiles: Risk Factors for Cervical Spine Injuries,” J. Am. Coll. Surg., vol. 205, no. 6, pp. 794–799, Dec. 2007, doi: 10.1016/j.jamcollsurg.2007.06.280.
+[2]	“Fatality Facts 2022: Pedestrians,” IIHS-HLDI crash testing and highway safety. Accessed: Jun. 17, 2024. [Online]. Available: https://www.iihs.org/topics/fatality-statistics/detail/pedestrians
+[3]	M. te Brömmelstroet, “Framing systemic traffic violence: Media coverage of Dutch traffic crashes,” Transp. Res. Interdiscip. Perspect., vol. 5, p. 100109, May 2020, doi: 10.1016/j.trip.2020.100109.
+[4]	“Conventional Crosswalks,” National Association of City Transportation Officials. Accessed: Jul. 28, 2024. [Online]. Available: https://nacto.org/publication/urban-street-design-guide/intersection-design-elements/crosswalks-and-crossings/conventional-crosswalks/
+[5]	A. Do, “Crosswalk Marking Field Visibility Study - FHWA-HRT-10-067.” Accessed: May 22, 2024. [Online]. Available: https://www.fhwa.dot.gov/publications/research/safety/pedbike/10067/
+[6]	S. S. Pantangi, S. S. Ahmed, G. Fountas, K. Majka, and P. Ch. Anastasopoulos, “Do high visibility crosswalks improve pedestrian safety? A correlated grouped random parameters approach using naturalistic driving study data,” Anal. Methods Accid. Res., vol. 30, p. 100155, Jun. 2021, doi: 10.1016/j.amar.2020.100155.
+[7]	L. Chen, C. Chen, and R. Ewing, “The Relative Effectiveness of Pedestrian Safety Countermeasures at Urban Intersections - Lessons from a New York City Experience,” 2012.
+[8]	“Evaluating Pedestrian Safety Countermeasures | FHWA.” Accessed: Jun. 24, 2024. [Online]. Available: https://highways.dot.gov/public-roads/marchapril-2011/evaluating-pedestrian-safety-countermeasures
+[9]	C. V. Zegeer, J. Richard Stewart, H. H. Huang, P. A. Lagerwey, J. Feaganes, and B. J. Campbell, “Safety Effects of Marked Versus Unmarked Crosswalks at Uncontrolled Locations.” Federal Highway Administration, Sep. 2005. [Online]. Available: https://www.fhwa.dot.gov/publications/research/safety/04100/04100.pdf
+[10]	G. Welsh, “Proposed Zebra Crosswalk Policy,” Transportation Services, Toronto, Aug. 2006. [Online]. Available: https://www.toronto.ca/legdocs/2006/agendas/committees/wks/wks060911/it014.pdf
+[11]	V. Didiano, “Zebra Pavement Marking Detail.” Toronto Technical Services, Apr. 2008. [Online]. Available: https://www.toronto.ca/wp-content/uploads/2017/11/99cc-ecs-specs-roadad-T-310.030-5_Rev2_Apr2008.pdf
+[12]	S. C. Government of Canada, “2021 Census of Population,” Statistics Canada. Accessed: Jul. 08, 2024. [Online]. Available: https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E (accessed July 8, 2024).
+[13]	“Pedestrians.” Public Safety Data Portal, Toronto Police Service. Accessed: Jun. 18, 2024. [Online]. Available: https://data.torontopolice.on.ca/pages/pedestrians
+[14]	“Traffic Volumes at Intersections for All Modes.” Toronto Open Data, City of Toronto, Jun. 16, 2024. Accessed: Jun. 18, 2024. [Online]. Available: https://open.toronto.ca/dataset/
+[15]	“Intersection File - City of Toronto.” Toronto Open Data, City of Toronto, Jun. 18, 2024. Accessed: Jun. 18, 2024. [Online]. Available: https://open.toronto.ca/dataset/
+[16]	“Former Municipality Boundaries.” Toronto Open Data, City of Toronto, Nov. 29, 2022. [Online]. Available: https://open.toronto.ca/dataset/former-municipality-boundaries/
+[17]	“The war on walking,” The Globe and Mail, Jan. 22, 2010. Accessed: Jun. 25, 2024. [Online]. Available: https://www.theglobeandmail.com/news/toronto/the-war-on-walking/article1209865/
+[18]	D. Reid, “A week of pedestrian death: any explanation?,” Spacing Toronto. Accessed: Jun. 25, 2024. [Online]. Available: https://spacing.ca/toronto/2010/01/21/a-week-of-pedestrian-death-any-explanation/
+[19]	“PW23.12 - City Initiatives for Reducing Pedestrian Collisions and Improving Traffic Safety,” toronto.ca. Accessed: Jun. 25, 2024. [Online]. Available: https://secure.toronto.ca/council/agenda-item.do?item=2013.PW23.12
+[20]	L. Zheng, T. Sayed, and F. Mannering, “Modeling traffic conflicts for use in road safety analysis: A review of analytic methods and future directions,” Anal. Methods Accid. Res., vol. 29, p. 100142, Mar. 2021, doi: 10.1016/j.amar.2020.100142.
